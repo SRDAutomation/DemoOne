@@ -5,6 +5,8 @@ public class DemoOne {
 		//System.out.println("This is Demo One");
 		System.out.println("Hi hi ho");
 		System.out.println("Hi hi yyiy");
+		System.out.println("Hi hi h654rr5");
+		System.out.println("Hi hi SRD");
 		System.out.println("HJhiuiiu");
 	}
 	
