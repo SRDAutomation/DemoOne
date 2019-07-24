@@ -7,7 +7,7 @@ public class DemoOne {
 		System.out.println("Hi hi yyiy");
 		System.out.println("Hi hi h654rr5");
 		System.out.println("Hi hi SRD");
-		System.out.println("HJhiuiiu");
+		System.out.println("HJh");
 	}
 	
 }
