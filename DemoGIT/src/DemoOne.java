@@ -10,6 +10,8 @@ public class DemoOne {
 		System.out.println("Hi this is Ranjan");
 		System.out.println("Hi this is My D456");
 		System.out.println("Hi hi SR");
+		System.out.println("Hi this is My Demo");
+		System.out.println("Hi hi SRD");
 		System.out.println("HJh");
 	}
 	
